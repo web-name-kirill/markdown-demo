@@ -1,5 +1,7 @@
 <!-- Heading -->
 
+# Heading
+
 # Heading 1
 
 ## Heading 2
@@ -14,6 +16,8 @@
 
 <!-- Highlight -->
 
+# Highlight
+
 _Italic_
 **Bold**
 
@@ -23,6 +27,8 @@ _Italic_
 ~~Strikethrough~~
 
 <!-- The lists -->
+
+# The lists
 
 - item 1
 - item 2
@@ -35,9 +41,13 @@ _Italic_
 
 <!-- Link -->
 
+# Link
+
 [Google](https://google.com)
 
 <!-- Code formatting -->
+
+# Code formatting
 
 I write words and I want to highlight the `command`.
 
@@ -57,15 +67,18 @@ npm install react
 
 <!-- Images -->
 
-[Markdown image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
+# Images
 
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="markdown image" width="100"> -->
+![Markdown image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1024px-Markdown-mark.svg.png" alt="markdown image" width="100">
 
 <!-- Quotes -->
 
-> Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+# Quotes
 
 > Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+
 > Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 > Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 > Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
@@ -73,6 +86,8 @@ npm install react
 > Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
 <!-- Horizontal separator -->
+
+# Horizontal separator
 
 ---
 
@@ -82,12 +97,16 @@ npm install react
 
 <!-- Tables -->
 
+# Tables
+
 |   name   |  type  | default | description |
 | :------: | :----: | :-----: | ----------- |
 |  login   | string |   ''    |
 | password | string |   ''    |
 
 <!-- To-do list -->
+
+# To-do list
 
 - [x] Todo1
 - [x] Todo2
@@ -114,6 +133,8 @@ npm install react
 - [x] Todo10
 
 <!-- Youtube video -->
+
+# Youtube video
 
 <a href="https://www.youtube.com/watch?v=jPKi2Addbxw"><img src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s180-rw" alt="youtube" width="100"></a>
 
